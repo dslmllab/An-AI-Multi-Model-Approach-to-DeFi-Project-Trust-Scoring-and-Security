@@ -1,5 +1,5 @@
-![img.png](https://github.com/dslmllab/An-AI-Multi-Model-Approach-to-DeFi-Project-Trust-Scoring-and-Security/blob/main/img.png)
+![img.png](defi.jpg)
 
-![Alt text](img.png?raw=true "UI")
+![Alt text](defi.jpg?raw=true "UI")
 
 [image]: mg.png
