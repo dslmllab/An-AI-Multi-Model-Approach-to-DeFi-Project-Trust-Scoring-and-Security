@@ -1,0 +1,260 @@
+Score,Project
+"[[{'label': 'neutral', 'score': 0.9463567137718201}, {'label': 'positive', 'score': 0.03249836713075638}, {'label': 'negative', 'score': 0.0211449284106493}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.938692033290863}, {'label': 'negative', 'score': 0.039950888603925705}, {'label': 'positive', 'score': 0.021357044577598572}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9170853495597839}, {'label': 'positive', 'score': 0.06793393194675446}, {'label': 'negative', 'score': 0.014980747364461422}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9449898600578308}, {'label': 'negative', 'score': 0.031553689390420914}, {'label': 'positive', 'score': 0.02345644310116768}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.944969117641449}, {'label': 'negative', 'score': 0.03313479572534561}, {'label': 'positive', 'score': 0.02189614437520504}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9338182806968689}, {'label': 'negative', 'score': 0.04503519833087921}, {'label': 'positive', 'score': 0.021146539598703384}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9435275197029114}, {'label': 'positive', 'score': 0.038489796221256256}, {'label': 'negative', 'score': 0.01798267848789692}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9424792528152466}, {'label': 'positive', 'score': 0.042822957038879395}, {'label': 'negative', 'score': 0.014697867445647717}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9448692798614502}, {'label': 'positive', 'score': 0.029631029814481735}, {'label': 'negative', 'score': 0.02549971267580986}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9367091655731201}, {'label': 'positive', 'score': 0.04320903122425079}, {'label': 'negative', 'score': 0.020081762224435806}]]",Uniswap
+"[[{'label': 'neutral', 'score': 0.9330261945724487}, {'label': 'negative', 'score': 0.040219202637672424}, {'label': 'positive', 'score': 0.0267545897513628}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9408721327781677}, {'label': 'positive', 'score': 0.035099100321531296}, {'label': 'negative', 'score': 0.024028725922107697}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9452890753746033}, {'label': 'positive', 'score': 0.03918790817260742}, {'label': 'negative', 'score': 0.015522961504757404}]]",Compound
+"[[{'label': 'neutral', 'score': 0.6206219792366028}, {'label': 'positive', 'score': 0.3701002895832062}, {'label': 'negative', 'score': 0.009277723729610443}]]",Compound
+"[[{'label': 'positive', 'score': 0.524451494216919}, {'label': 'neutral', 'score': 0.46301987767219543}, {'label': 'negative', 'score': 0.012528570368885994}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9471893310546875}, {'label': 'positive', 'score': 0.028545264154672623}, {'label': 'negative', 'score': 0.024265436455607414}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9441584348678589}, {'label': 'negative', 'score': 0.030063912272453308}, {'label': 'positive', 'score': 0.02577758952975273}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9390275478363037}, {'label': 'positive', 'score': 0.030550282448530197}, {'label': 'negative', 'score': 0.030422242358326912}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9352123737335205}, {'label': 'negative', 'score': 0.04562341049313545}, {'label': 'positive', 'score': 0.019164210185408592}]]",Compound
+"[[{'label': 'neutral', 'score': 0.8971004486083984}, {'label': 'negative', 'score': 0.06484252959489822}, {'label': 'positive', 'score': 0.038056984543800354}]]",Compound
+"[[{'label': 'neutral', 'score': 0.9451466202735901}, {'label': 'positive', 'score': 0.03555803745985031}, {'label': 'negative', 'score': 0.019295355305075645}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9289249777793884}, {'label': 'positive', 'score': 0.049497008323669434}, {'label': 'negative', 'score': 0.02157803252339363}]]",Aave
+"[[{'label': 'neutral', 'score': 0.598998486995697}, {'label': 'positive', 'score': 0.38885512948036194}, {'label': 'negative', 'score': 0.012146379798650742}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9453281164169312}, {'label': 'positive', 'score': 0.029772816225886345}, {'label': 'negative', 'score': 0.024899128824472427}]]",Aave
+"[[{'label': 'neutral', 'score': 0.898444652557373}, {'label': 'positive', 'score': 0.08829296380281448}, {'label': 'negative', 'score': 0.013262413442134857}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9262830018997192}, {'label': 'negative', 'score': 0.0505610890686512}, {'label': 'positive', 'score': 0.02315591648221016}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9347639083862305}, {'label': 'positive', 'score': 0.034160275012254715}, {'label': 'negative', 'score': 0.03107578493654728}]]",Aave
+"[[{'label': 'neutral', 'score': 0.930494487285614}, {'label': 'negative', 'score': 0.04614397883415222}, {'label': 'positive', 'score': 0.023361554369330406}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9397357106208801}, {'label': 'negative', 'score': 0.03929810971021652}, {'label': 'positive', 'score': 0.020966166630387306}]]",Aave
+"[[{'label': 'neutral', 'score': 0.9484936594963074}, {'label': 'negative', 'score': 0.028465645387768745}, {'label': 'positive', 'score': 0.02304067462682724}]]",Aave
+"[[{'label': 'neutral', 'score': 0.8769386410713196}, {'label': 'positive', 'score': 0.11084399372339249}, {'label': 'negative', 'score': 0.012217423878610134}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9444586634635925}, {'label': 'negative', 'score': 0.03189785033464432}, {'label': 'positive', 'score': 0.023643450811505318}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9471035599708557}, {'label': 'negative', 'score': 0.028900330886244774}, {'label': 'positive', 'score': 0.023996135219931602}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9318850040435791}, {'label': 'positive', 'score': 0.04854556918144226}, {'label': 'negative', 'score': 0.019569411873817444}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9446008205413818}, {'label': 'positive', 'score': 0.028689635917544365}, {'label': 'negative', 'score': 0.026709502562880516}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9454032182693481}, {'label': 'positive', 'score': 0.02825130522251129}, {'label': 'negative', 'score': 0.026345469057559967}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9404190182685852}, {'label': 'negative', 'score': 0.03193514421582222}, {'label': 'positive', 'score': 0.027645807713270187}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9425159692764282}, {'label': 'positive', 'score': 0.03992992639541626}, {'label': 'negative', 'score': 0.01755412667989731}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9387463331222534}, {'label': 'positive', 'score': 0.037121038883924484}, {'label': 'negative', 'score': 0.024132633581757545}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9463278651237488}, {'label': 'negative', 'score': 0.02771950699388981}, {'label': 'positive', 'score': 0.025952588766813278}]]",Maker
+"[[{'label': 'neutral', 'score': 0.9328594207763672}, {'label': 'negative', 'score': 0.042375046759843826}, {'label': 'positive', 'score': 0.024765493348240852}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9248246550559998}, {'label': 'positive', 'score': 0.059128206223249435}, {'label': 'negative', 'score': 0.016047149896621704}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9405173659324646}, {'label': 'negative', 'score': 0.031077975407242775}, {'label': 'positive', 'score': 0.028404630720615387}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9443029761314392}, {'label': 'negative', 'score': 0.03305639699101448}, {'label': 'positive', 'score': 0.022640662267804146}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9069854617118835}, {'label': 'negative', 'score': 0.07206028699874878}, {'label': 'positive', 'score': 0.020954236388206482}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9338824152946472}, {'label': 'positive', 'score': 0.05207756534218788}, {'label': 'negative', 'score': 0.014040039852261543}]]",Curve
+"[[{'label': 'neutral', 'score': 0.8954619765281677}, {'label': 'positive', 'score': 0.08718974888324738}, {'label': 'negative', 'score': 0.01734832488000393}]]",Curve
+"[[{'label': 'neutral', 'score': 0.8633745312690735}, {'label': 'positive', 'score': 0.12142634391784668}, {'label': 'negative', 'score': 0.015199108049273491}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9246505498886108}, {'label': 'positive', 'score': 0.05415310710668564}, {'label': 'negative', 'score': 0.02119637466967106}]]",Curve
+"[[{'label': 'neutral', 'score': 0.922961950302124}, {'label': 'negative', 'score': 0.046839695423841476}, {'label': 'positive', 'score': 0.03019840642809868}]]",Curve
+"[[{'label': 'neutral', 'score': 0.9291402697563171}, {'label': 'negative', 'score': 0.04372210055589676}, {'label': 'positive', 'score': 0.027137678116559982}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.9421703219413757}, {'label': 'positive', 'score': 0.04055670648813248}, {'label': 'negative', 'score': 0.017272932454943657}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.9473904371261597}, {'label': 'positive', 'score': 0.031280845403671265}, {'label': 'negative', 'score': 0.021328698843717575}]]",SushiSwap
+"[[{'label': 'negative', 'score': 0.8189205527305603}, {'label': 'neutral', 'score': 0.1552196890115738}, {'label': 'positive', 'score': 0.025859780609607697}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.927421510219574}, {'label': 'negative', 'score': 0.04370144382119179}, {'label': 'positive', 'score': 0.028877081349492073}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.9301158785820007}, {'label': 'positive', 'score': 0.05287682265043259}, {'label': 'negative', 'score': 0.017007332295179367}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.8854363560676575}, {'label': 'positive', 'score': 0.10490810126066208}, {'label': 'negative', 'score': 0.009655514732003212}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.8903003931045532}, {'label': 'positive', 'score': 0.09444618970155716}, {'label': 'negative', 'score': 0.015253403224050999}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.8983995318412781}, {'label': 'positive', 'score': 0.08953113853931427}, {'label': 'negative', 'score': 0.01206931658089161}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.92950439453125}, {'label': 'negative', 'score': 0.05082559585571289}, {'label': 'positive', 'score': 0.019669972360134125}]]",SushiSwap
+"[[{'label': 'neutral', 'score': 0.9124733209609985}, {'label': 'negative', 'score': 0.04559306427836418}, {'label': 'positive', 'score': 0.04193359613418579}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9436383247375488}, {'label': 'negative', 'score': 0.02850869484245777}, {'label': 'positive', 'score': 0.02785293199121952}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9449931979179382}, {'label': 'positive', 'score': 0.034749239683151245}, {'label': 'negative', 'score': 0.020257597789168358}]]",Yearn Finance
+"[[{'label': 'positive', 'score': 0.7536683678627014}, {'label': 'neutral', 'score': 0.22813943028450012}, {'label': 'negative', 'score': 0.018192173913121223}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9307448863983154}, {'label': 'positive', 'score': 0.054447636008262634}, {'label': 'negative', 'score': 0.014807519502937794}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9525332450866699}, {'label': 'positive', 'score': 0.026161298155784607}, {'label': 'negative', 'score': 0.02130541205406189}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9218617081642151}, {'label': 'negative', 'score': 0.05982106924057007}, {'label': 'positive', 'score': 0.018317250534892082}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9400020241737366}, {'label': 'positive', 'score': 0.034066248685121536}, {'label': 'negative', 'score': 0.02593180164694786}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9411842823028564}, {'label': 'negative', 'score': 0.03617838770151138}, {'label': 'positive', 'score': 0.022637372836470604}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9243578910827637}, {'label': 'negative', 'score': 0.04982677847146988}, {'label': 'positive', 'score': 0.025815283879637718}]]",Yearn Finance
+"[[{'label': 'neutral', 'score': 0.9501906633377075}, {'label': 'positive', 'score': 0.027588067576289177}, {'label': 'negative', 'score': 0.02222129888832569}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9448601007461548}, {'label': 'negative', 'score': 0.028044378384947777}, {'label': 'positive', 'score': 0.027095504105091095}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.903757631778717}, {'label': 'positive', 'score': 0.08748449385166168}, {'label': 'negative', 'score': 0.008757807314395905}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9277556538581848}, {'label': 'negative', 'score': 0.04248083010315895}, {'label': 'positive', 'score': 0.029763512313365936}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9303193688392639}, {'label': 'positive', 'score': 0.051021408289670944}, {'label': 'negative', 'score': 0.018659207969903946}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9350048303604126}, {'label': 'negative', 'score': 0.041848763823509216}, {'label': 'positive', 'score': 0.023146454244852066}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9427279233932495}, {'label': 'positive', 'score': 0.03509955108165741}, {'label': 'negative', 'score': 0.022172536700963974}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9418635368347168}, {'label': 'positive', 'score': 0.04056469351053238}, {'label': 'negative', 'score': 0.01757177524268627}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9514047503471375}, {'label': 'positive', 'score': 0.02496647648513317}, {'label': 'negative', 'score': 0.023628802970051765}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9382185935974121}, {'label': 'positive', 'score': 0.03169768303632736}, {'label': 'negative', 'score': 0.030083656311035156}]]",Synthetix
+"[[{'label': 'neutral', 'score': 0.9454482793807983}, {'label': 'positive', 'score': 0.027591846883296967}, {'label': 'negative', 'score': 0.026959924027323723}]]",Balancer
+"[[{'label': 'neutral', 'score': 0.9468843936920166}, {'label': 'positive', 'score': 0.030199220404028893}, {'label': 'negative', 'score': 0.022916322574019432}]]",Balancer
+"[[{'label': 'negative', 'score': 0.7629136443138123}, {'label': 'neutral', 'score': 0.12338440865278244}, {'label': 'positive', 'score': 0.11370192468166351}]]",Balancer
+"[[{'label': 'neutral', 'score': 0.9505571722984314}, {'label': 'positive', 'score': 0.02504502236843109}, {'label': 'negative', 'score': 0.024397801607847214}]]",Balancer
+"[[{'label': 'positive', 'score': 0.8425101041793823}, {'label': 'neutral', 'score': 0.14994241297245026}, {'label': 'negative', 'score': 0.007547462824732065}]]",Balancer
+"[[{'label': 'neutral', 'score': 0.943719208240509}, {'label': 'positive', 'score': 0.029954349622130394}, {'label': 'negative', 'score': 0.026326442137360573}]]",Balancer
+"[[{'label': 'negative', 'score': 0.9475722312927246}, {'label': 'positive', 'score': 0.03241228684782982}, {'label': 'neutral', 'score': 0.02001546509563923}]]",Balancer
+"[[{'label': 'negative', 'score': 0.5813707709312439}, {'label': 'neutral', 'score': 0.3604292869567871}, {'label': 'positive', 'score': 0.05819997936487198}]]",Balancer
+"[[{'label': 'negative', 'score': 0.8124101758003235}, {'label': 'neutral', 'score': 0.13897007703781128}, {'label': 'positive', 'score': 0.048619724810123444}]]",Balancer
+"[[{'label': 'neutral', 'score': 0.9476028680801392}, {'label': 'negative', 'score': 0.029589498415589333}, {'label': 'positive', 'score': 0.02280767261981964}]]",Balancer
+"[[{'label': 'neutral', 'score': 0.9383578896522522}, {'label': 'positive', 'score': 0.04329626262187958}, {'label': 'negative', 'score': 0.018345791846513748}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.841640293598175}, {'label': 'positive', 'score': 0.14806976914405823}, {'label': 'negative', 'score': 0.010289869271218777}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9430425763130188}, {'label': 'negative', 'score': 0.0343618206679821}, {'label': 'positive', 'score': 0.022595589980483055}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9459205865859985}, {'label': 'positive', 'score': 0.030140234157443047}, {'label': 'negative', 'score': 0.02393919602036476}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9395383596420288}, {'label': 'positive', 'score': 0.04438852146267891}, {'label': 'negative', 'score': 0.016073184087872505}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.934756875038147}, {'label': 'negative', 'score': 0.03394230455160141}, {'label': 'positive', 'score': 0.031300872564315796}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9471975564956665}, {'label': 'positive', 'score': 0.030886979773640633}, {'label': 'negative', 'score': 0.02191547118127346}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9203947186470032}, {'label': 'positive', 'score': 0.06808216124773026}, {'label': 'negative', 'score': 0.011523089371621609}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9393417239189148}, {'label': 'positive', 'score': 0.04140828549861908}, {'label': 'negative', 'score': 0.01925002969801426}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.9439477920532227}, {'label': 'positive', 'score': 0.029593903571367264}, {'label': 'negative', 'score': 0.026458321139216423}]]",dYdX
+"[[{'label': 'neutral', 'score': 0.94068843126297}, {'label': 'positive', 'score': 0.04460248723626137}, {'label': 'negative', 'score': 0.0147090470418334}]]",1inch
+"[[{'label': 'neutral', 'score': 0.5363762378692627}, {'label': 'positive', 'score': 0.45260387659072876}, {'label': 'negative', 'score': 0.011019851081073284}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9465219974517822}, {'label': 'negative', 'score': 0.02887202613055706}, {'label': 'positive', 'score': 0.024606013670563698}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9459109902381897}, {'label': 'positive', 'score': 0.02773112617433071}, {'label': 'negative', 'score': 0.026357868686318398}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9410986304283142}, {'label': 'positive', 'score': 0.0301660243421793}, {'label': 'negative', 'score': 0.028735356405377388}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9445288181304932}, {'label': 'positive', 'score': 0.03259056806564331}, {'label': 'negative', 'score': 0.022880638018250465}]]",1inch
+"[[{'label': 'neutral', 'score': 0.939189612865448}, {'label': 'negative', 'score': 0.03695341944694519}, {'label': 'positive', 'score': 0.023856911808252335}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9339601993560791}, {'label': 'negative', 'score': 0.04093027114868164}, {'label': 'positive', 'score': 0.02510949969291687}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9397938251495361}, {'label': 'negative', 'score': 0.03879525139927864}, {'label': 'positive', 'score': 0.02141089364886284}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9224045276641846}, {'label': 'negative', 'score': 0.04677869752049446}, {'label': 'positive', 'score': 0.030816758051514626}]]",1inch
+"[[{'label': 'neutral', 'score': 0.9423598051071167}, {'label': 'positive', 'score': 0.04000338912010193}, {'label': 'negative', 'score': 0.017636796459555626}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9477106928825378}, {'label': 'negative', 'score': 0.02806026116013527}, {'label': 'positive', 'score': 0.02422906644642353}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9319281578063965}, {'label': 'positive', 'score': 0.054135628044605255}, {'label': 'negative', 'score': 0.013936193659901619}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9476364850997925}, {'label': 'negative', 'score': 0.03039153479039669}, {'label': 'positive', 'score': 0.021971944719552994}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9475486278533936}, {'label': 'positive', 'score': 0.028523389250040054}, {'label': 'negative', 'score': 0.023927947506308556}]]",Kyber Network
+"[[{'label': 'negative', 'score': 0.9493522047996521}, {'label': 'neutral', 'score': 0.04269259795546532}, {'label': 'positive', 'score': 0.007955213077366352}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.7035732269287109}, {'label': 'positive', 'score': 0.2876213788986206}, {'label': 'negative', 'score': 0.008805356919765472}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.8956267237663269}, {'label': 'positive', 'score': 0.09516531974077225}, {'label': 'negative', 'score': 0.009207993745803833}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9421537518501282}, {'label': 'negative', 'score': 0.03828927502036095}, {'label': 'positive', 'score': 0.019556965678930283}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9402195811271667}, {'label': 'positive', 'score': 0.03940027579665184}, {'label': 'negative', 'score': 0.020380159839987755}]]",Kyber Network
+"[[{'label': 'neutral', 'score': 0.9418834447860718}, {'label': 'negative', 'score': 0.03222418576478958}, {'label': 'positive', 'score': 0.025892334058880806}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9480295181274414}, {'label': 'positive', 'score': 0.027850262820720673}, {'label': 'negative', 'score': 0.024120250716805458}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9482552409172058}, {'label': 'positive', 'score': 0.026529811322689056}, {'label': 'negative', 'score': 0.025215018540620804}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9448092579841614}, {'label': 'negative', 'score': 0.03112756460905075}, {'label': 'positive', 'score': 0.02406313084065914}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9027559757232666}, {'label': 'positive', 'score': 0.08807947486639023}, {'label': 'negative', 'score': 0.009164529852569103}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.8278594017028809}, {'label': 'positive', 'score': 0.15856103599071503}, {'label': 'negative', 'score': 0.013579584658145905}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9418834447860718}, {'label': 'negative', 'score': 0.03222418576478958}, {'label': 'positive', 'score': 0.025892334058880806}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9287735819816589}, {'label': 'negative', 'score': 0.04949527978897095}, {'label': 'positive', 'score': 0.02173115871846676}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.8835679292678833}, {'label': 'positive', 'score': 0.06848964840173721}, {'label': 'negative', 'score': 0.04794247820973396}]]",Bancor
+"[[{'label': 'negative', 'score': 0.5238752961158752}, {'label': 'neutral', 'score': 0.4582211375236511}, {'label': 'positive', 'score': 0.017903510481119156}]]",Bancor
+"[[{'label': 'neutral', 'score': 0.9456948041915894}, {'label': 'positive', 'score': 0.029708383604884148}, {'label': 'negative', 'score': 0.02459678053855896}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.8742477297782898}, {'label': 'positive', 'score': 0.11460945010185242}, {'label': 'negative', 'score': 0.011142842471599579}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9021320939064026}, {'label': 'positive', 'score': 0.08194323629140854}, {'label': 'negative', 'score': 0.015924647450447083}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9368556141853333}, {'label': 'positive', 'score': 0.03405796363949776}, {'label': 'negative', 'score': 0.029086381196975708}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9448093771934509}, {'label': 'positive', 'score': 0.036611199378967285}, {'label': 'negative', 'score': 0.018579469993710518}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9493709802627563}, {'label': 'positive', 'score': 0.030330706387758255}, {'label': 'negative', 'score': 0.020298240706324577}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.937587320804596}, {'label': 'negative', 'score': 0.041635092347860336}, {'label': 'positive', 'score': 0.02077755518257618}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9397096633911133}, {'label': 'positive', 'score': 0.04398337006568909}, {'label': 'negative', 'score': 0.016306990757584572}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9438585638999939}, {'label': 'negative', 'score': 0.03215157985687256}, {'label': 'positive', 'score': 0.023989902809262276}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9235777258872986}, {'label': 'positive', 'score': 0.05691816285252571}, {'label': 'negative', 'score': 0.019504155963659286}]]",Alchemix
+"[[{'label': 'neutral', 'score': 0.9434990882873535}, {'label': 'negative', 'score': 0.0301037710160017}, {'label': 'positive', 'score': 0.026397140696644783}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9437764883041382}, {'label': 'negative', 'score': 0.03355634957551956}, {'label': 'positive', 'score': 0.022667240351438522}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9388415217399597}, {'label': 'positive', 'score': 0.04586196690797806}, {'label': 'negative', 'score': 0.015296568162739277}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9466837048530579}, {'label': 'positive', 'score': 0.03223322331905365}, {'label': 'negative', 'score': 0.02108304388821125}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9478492736816406}, {'label': 'positive', 'score': 0.03112165816128254}, {'label': 'negative', 'score': 0.0210291538387537}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.943257749080658}, {'label': 'positive', 'score': 0.03600964695215225}, {'label': 'negative', 'score': 0.020732611417770386}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.8908274173736572}, {'label': 'positive', 'score': 0.09551200270652771}, {'label': 'negative', 'score': 0.013660654425621033}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9513918161392212}, {'label': 'positive', 'score': 0.03021012805402279}, {'label': 'negative', 'score': 0.01839802786707878}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.9433844089508057}, {'label': 'negative', 'score': 0.03234418109059334}, {'label': 'positive', 'score': 0.02427145466208458}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.6187498569488525}, {'label': 'positive', 'score': 0.36514002084732056}, {'label': 'negative', 'score': 0.01611013524234295}]]",Harvest Finance
+"[[{'label': 'neutral', 'score': 0.7590752243995667}, {'label': 'positive', 'score': 0.22739078104496002}, {'label': 'negative', 'score': 0.013533998280763626}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9413893222808838}, {'label': 'positive', 'score': 0.03129958733916283}, {'label': 'negative', 'score': 0.027311118319630623}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9487714171409607}, {'label': 'negative', 'score': 0.02642931416630745}, {'label': 'positive', 'score': 0.02479928731918335}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9435597062110901}, {'label': 'positive', 'score': 0.04347490146756172}, {'label': 'negative', 'score': 0.012965385802090168}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9368109703063965}, {'label': 'positive', 'score': 0.033887796103954315}, {'label': 'negative', 'score': 0.029301246628165245}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9274423122406006}, {'label': 'positive', 'score': 0.05313559249043465}, {'label': 'negative', 'score': 0.019422149285674095}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9249460101127625}, {'label': 'negative', 'score': 0.0545119047164917}, {'label': 'positive', 'score': 0.020542148500680923}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9384799003601074}, {'label': 'positive', 'score': 0.040981750935316086}, {'label': 'negative', 'score': 0.020538412034511566}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9487099051475525}, {'label': 'positive', 'score': 0.03410572186112404}, {'label': 'negative', 'score': 0.017184389755129814}]]",Badger DAO
+"[[{'label': 'negative', 'score': 0.9348045587539673}, {'label': 'neutral', 'score': 0.04449455067515373}, {'label': 'positive', 'score': 0.02070092223584652}]]",Badger DAO
+"[[{'label': 'neutral', 'score': 0.9306195378303528}, {'label': 'negative', 'score': 0.03853078559041023}, {'label': 'positive', 'score': 0.030849730595946312}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.9448646903038025}, {'label': 'positive', 'score': 0.0313863679766655}, {'label': 'negative', 'score': 0.023748954758048058}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.9306195378303528}, {'label': 'negative', 'score': 0.03853078559041023}, {'label': 'positive', 'score': 0.030849730595946312}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.7155418992042542}, {'label': 'negative', 'score': 0.25234079360961914}, {'label': 'positive', 'score': 0.0321173295378685}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.6866768598556519}, {'label': 'negative', 'score': 0.2891038656234741}, {'label': 'positive', 'score': 0.024219319224357605}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.8992564678192139}, {'label': 'positive', 'score': 0.06910783797502518}, {'label': 'negative', 'score': 0.03163563460111618}]]",Cream Finance
+"[[{'label': 'negative', 'score': 0.8492587208747864}, {'label': 'neutral', 'score': 0.13366617262363434}, {'label': 'positive', 'score': 0.017075179144740105}]]",Cream Finance
+"[[{'label': 'negative', 'score': 0.7085469365119934}, {'label': 'neutral', 'score': 0.27304160594940186}, {'label': 'positive', 'score': 0.018411485478281975}]]",Cream Finance
+"[[{'label': 'negative', 'score': 0.6939303874969482}, {'label': 'neutral', 'score': 0.2812386751174927}, {'label': 'positive', 'score': 0.02483096346259117}]]",Cream Finance
+"[[{'label': 'positive', 'score': 0.7988331913948059}, {'label': 'neutral', 'score': 0.17663182318210602}, {'label': 'negative', 'score': 0.02453499287366867}]]",Cream Finance
+"[[{'label': 'neutral', 'score': 0.9480429291725159}, {'label': 'negative', 'score': 0.027401220053434372}, {'label': 'positive', 'score': 0.02455582283437252}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9460001587867737}, {'label': 'positive', 'score': 0.041005346924066544}, {'label': 'negative', 'score': 0.012994563207030296}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9421525597572327}, {'label': 'positive', 'score': 0.03201679885387421}, {'label': 'negative', 'score': 0.025830689817667007}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9396882057189941}, {'label': 'positive', 'score': 0.03357245773077011}, {'label': 'negative', 'score': 0.026739276945590973}]]",Ren
+"[[{'label': 'neutral', 'score': 0.8612798452377319}, {'label': 'negative', 'score': 0.0972103402018547}, {'label': 'positive', 'score': 0.04150986671447754}]]",Ren
+"[[{'label': 'neutral', 'score': 0.872066855430603}, {'label': 'negative', 'score': 0.08139161765575409}, {'label': 'positive', 'score': 0.046541571617126465}]]",Ren
+"[[{'label': 'neutral', 'score': 0.94325190782547}, {'label': 'positive', 'score': 0.043631020933389664}, {'label': 'negative', 'score': 0.013117041438817978}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9280195236206055}, {'label': 'positive', 'score': 0.05907219648361206}, {'label': 'negative', 'score': 0.012908300384879112}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9431964159011841}, {'label': 'positive', 'score': 0.035965580493211746}, {'label': 'negative', 'score': 0.02083796262741089}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9278246164321899}, {'label': 'positive', 'score': 0.05898427963256836}, {'label': 'negative', 'score': 0.013191109523177147}]]",Ren
+"[[{'label': 'neutral', 'score': 0.9155765175819397}, {'label': 'positive', 'score': 0.0693466067314148}, {'label': 'negative', 'score': 0.01507690828293562}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9486032724380493}, {'label': 'negative', 'score': 0.02655370533466339}, {'label': 'positive', 'score': 0.024843020364642143}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9247717261314392}, {'label': 'positive', 'score': 0.060124125331640244}, {'label': 'negative', 'score': 0.015104150399565697}]]",mStable
+"[[{'label': 'neutral', 'score': 0.948488175868988}, {'label': 'positive', 'score': 0.02695559523999691}, {'label': 'negative', 'score': 0.02455616369843483}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9350118041038513}, {'label': 'negative', 'score': 0.03610417619347572}, {'label': 'positive', 'score': 0.02888401970267296}]]",mStable
+"[[{'label': 'neutral', 'score': 0.8846520781517029}, {'label': 'positive', 'score': 0.10516311228275299}, {'label': 'negative', 'score': 0.010184806771576405}]]",mStable
+"[[{'label': 'neutral', 'score': 0.8703917860984802}, {'label': 'positive', 'score': 0.11899463832378387}, {'label': 'negative', 'score': 0.010613634251058102}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9442139267921448}, {'label': 'positive', 'score': 0.035722460597753525}, {'label': 'negative', 'score': 0.02006356790661812}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9431148767471313}, {'label': 'negative', 'score': 0.030818212777376175}, {'label': 'positive', 'score': 0.026066847145557404}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9333028197288513}, {'label': 'positive', 'score': 0.039378684014081955}, {'label': 'negative', 'score': 0.027318501845002174}]]",mStable
+"[[{'label': 'neutral', 'score': 0.9474343061447144}, {'label': 'positive', 'score': 0.026961926370859146}, {'label': 'negative', 'score': 0.02560381591320038}]]",Perpetual Protocol
+"[[{'label': 'negative', 'score': 0.45230209827423096}, {'label': 'neutral', 'score': 0.41656145453453064}, {'label': 'positive', 'score': 0.1311364471912384}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9506820440292358}, {'label': 'positive', 'score': 0.03057865984737873}, {'label': 'negative', 'score': 0.018739329650998116}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9323478937149048}, {'label': 'positive', 'score': 0.03491314873099327}, {'label': 'negative', 'score': 0.03273896872997284}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9511400461196899}, {'label': 'positive', 'score': 0.024929411709308624}, {'label': 'negative', 'score': 0.023930538445711136}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9393919706344604}, {'label': 'positive', 'score': 0.04174274951219559}, {'label': 'negative', 'score': 0.018865268677473068}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9465763568878174}, {'label': 'positive', 'score': 0.029222305864095688}, {'label': 'negative', 'score': 0.024201299995183945}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9378825426101685}, {'label': 'negative', 'score': 0.0363411083817482}, {'label': 'positive', 'score': 0.025776339694857597}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9467098116874695}, {'label': 'positive', 'score': 0.028780756518244743}, {'label': 'negative', 'score': 0.024509480223059654}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9362571835517883}, {'label': 'negative', 'score': 0.04082746058702469}, {'label': 'positive', 'score': 0.02291535586118698}]]",Perpetual Protocol
+"[[{'label': 'neutral', 'score': 0.9443081021308899}, {'label': 'negative', 'score': 0.02839854173362255}, {'label': 'positive', 'score': 0.027293343096971512}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.8835256099700928}, {'label': 'positive', 'score': 0.1053946316242218}, {'label': 'negative', 'score': 0.011079800315201283}]]",Enzyme Finance
+"[[{'label': 'positive', 'score': 0.9282751679420471}, {'label': 'neutral', 'score': 0.052166227251291275}, {'label': 'negative', 'score': 0.019558632746338844}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.9437624216079712}, {'label': 'negative', 'score': 0.03200571611523628}, {'label': 'positive', 'score': 0.024231791496276855}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.8583957552909851}, {'label': 'positive', 'score': 0.13364608585834503}, {'label': 'negative', 'score': 0.00795818492770195}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.8580849170684814}, {'label': 'positive', 'score': 0.1318919062614441}, {'label': 'negative', 'score': 0.01002323068678379}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.9488840103149414}, {'label': 'positive', 'score': 0.02707727439701557}, {'label': 'negative', 'score': 0.024038733914494514}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.9446575045585632}, {'label': 'positive', 'score': 0.04010804742574692}, {'label': 'negative', 'score': 0.015234365127980709}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.8850137591362}, {'label': 'positive', 'score': 0.10682042688131332}, {'label': 'negative', 'score': 0.008165812119841576}]]",Enzyme Finance
+"[[{'label': 'neutral', 'score': 0.9291808009147644}, {'label': 'positive', 'score': 0.0564485527575016}, {'label': 'negative', 'score': 0.014370654709637165}]]",Enzyme Finance
+"[[{'label': 'negative', 'score': 0.6049933433532715}, {'label': 'neutral', 'score': 0.3778504431247711}, {'label': 'positive', 'score': 0.0171562097966671}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.9482642412185669}, {'label': 'positive', 'score': 0.03602931275963783}, {'label': 'negative', 'score': 0.015706414356827736}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.86810302734375}, {'label': 'positive', 'score': 0.12273447215557098}, {'label': 'negative', 'score': 0.009162543341517448}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.951919436454773}, {'label': 'positive', 'score': 0.0298067107796669}, {'label': 'negative', 'score': 0.01827392354607582}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.9494566321372986}, {'label': 'positive', 'score': 0.025381911545991898}, {'label': 'negative', 'score': 0.02516143210232258}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.9461040496826172}, {'label': 'positive', 'score': 0.035490356385707855}, {'label': 'negative', 'score': 0.018405579030513763}]]",Opyn
+"[[{'label': 'positive', 'score': 0.5991194248199463}, {'label': 'neutral', 'score': 0.39061155915260315}, {'label': 'negative', 'score': 0.01026901789009571}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.929690957069397}, {'label': 'positive', 'score': 0.054018285125494}, {'label': 'negative', 'score': 0.016290772706270218}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.8928264379501343}, {'label': 'negative', 'score': 0.06641709804534912}, {'label': 'positive', 'score': 0.040756478905677795}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.9376706480979919}, {'label': 'positive', 'score': 0.03792566806077957}, {'label': 'negative', 'score': 0.024403683841228485}]]",Opyn
+"[[{'label': 'neutral', 'score': 0.9487613439559937}, {'label': 'positive', 'score': 0.031971145421266556}, {'label': 'negative', 'score': 0.019267473369836807}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.8908187747001648}, {'label': 'negative', 'score': 0.08522771298885345}, {'label': 'positive', 'score': 0.023953480646014214}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9280679821968079}, {'label': 'negative', 'score': 0.03878404572606087}, {'label': 'positive', 'score': 0.033147964626550674}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.8871075510978699}, {'label': 'positive', 'score': 0.07426552474498749}, {'label': 'negative', 'score': 0.038626883178949356}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9402790069580078}, {'label': 'positive', 'score': 0.04230523109436035}, {'label': 'negative', 'score': 0.017415737733244896}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.943867564201355}, {'label': 'negative', 'score': 0.032731715589761734}, {'label': 'positive', 'score': 0.023400751873850822}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9291417002677917}, {'label': 'negative', 'score': 0.05078655481338501}, {'label': 'positive', 'score': 0.020071789622306824}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9423681497573853}, {'label': 'positive', 'score': 0.03204963728785515}, {'label': 'negative', 'score': 0.02558220736682415}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9442446231842041}, {'label': 'negative', 'score': 0.03304232284426689}, {'label': 'positive', 'score': 0.022713061422109604}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.8579511642456055}, {'label': 'negative', 'score': 0.07141920924186707}, {'label': 'positive', 'score': 0.07062960416078568}]]",Hegic
+"[[{'label': 'neutral', 'score': 0.9458490014076233}, {'label': 'negative', 'score': 0.03087552636861801}, {'label': 'positive', 'score': 0.023275448009371758}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9188527464866638}, {'label': 'negative', 'score': 0.05532246083021164}, {'label': 'positive', 'score': 0.025824833661317825}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9420655965805054}, {'label': 'positive', 'score': 0.038005903363227844}, {'label': 'negative', 'score': 0.01992848329246044}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9428536891937256}, {'label': 'negative', 'score': 0.038474708795547485}, {'label': 'positive', 'score': 0.018671557307243347}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9449792504310608}, {'label': 'negative', 'score': 0.029088716953992844}, {'label': 'positive', 'score': 0.0259320717304945}]]",Saddle Finance
+"[[{'label': 'negative', 'score': 0.7526240944862366}, {'label': 'neutral', 'score': 0.23527133464813232}, {'label': 'positive', 'score': 0.012104534544050694}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9452118873596191}, {'label': 'positive', 'score': 0.039464399218559265}, {'label': 'negative', 'score': 0.015323774889111519}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.945514976978302}, {'label': 'negative', 'score': 0.03378095477819443}, {'label': 'positive', 'score': 0.020704034715890884}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9243578910827637}, {'label': 'negative', 'score': 0.04982677847146988}, {'label': 'positive', 'score': 0.025815283879637718}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.671299397945404}, {'label': 'negative', 'score': 0.30908137559890747}, {'label': 'positive', 'score': 0.019619224593043327}]]",Saddle Finance
+"[[{'label': 'neutral', 'score': 0.9416685700416565}, {'label': 'positive', 'score': 0.03281708061695099}, {'label': 'negative', 'score': 0.02551431767642498}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.948269784450531}, {'label': 'positive', 'score': 0.029461726546287537}, {'label': 'negative', 'score': 0.02226843871176243}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9475860595703125}, {'label': 'negative', 'score': 0.02780735120177269}, {'label': 'positive', 'score': 0.024606630206108093}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.5773707628250122}, {'label': 'negative', 'score': 0.3978460431098938}, {'label': 'positive', 'score': 0.024783195927739143}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9092676639556885}, {'label': 'positive', 'score': 0.07748159766197205}, {'label': 'negative', 'score': 0.013250726275146008}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9463443160057068}, {'label': 'negative', 'score': 0.02683224342763424}, {'label': 'positive', 'score': 0.02682347781956196}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.8545606136322021}, {'label': 'positive', 'score': 0.13592839241027832}, {'label': 'negative', 'score': 0.009510963223874569}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9510496854782104}, {'label': 'positive', 'score': 0.02535429783165455}, {'label': 'negative', 'score': 0.023596078157424927}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9407584071159363}, {'label': 'negative', 'score': 0.033467985689640045}, {'label': 'positive', 'score': 0.025773650035262108}]]",Liquity
+"[[{'label': 'neutral', 'score': 0.9442033767700195}, {'label': 'positive', 'score': 0.040095046162605286}, {'label': 'negative', 'score': 0.015701599419116974}]]",Liquity
+"[[{'label': 'negative', 'score': 0.9701631665229797}, {'label': 'neutral', 'score': 0.02836384996771813}, {'label': 'positive', 'score': 0.0014730176282301545}]]", Squid Token
+"[[{'label': 'negative', 'score': 0.7906513214111328}, {'label': 'neutral', 'score': 0.20602868497371674}, {'label': 'positive', 'score': 0.0033199903751909733}]]", Fantom Foundation
+"[[{'label': 'negative', 'score': 0.9701631665229797}, {'label': 'neutral', 'score': 0.02836384996771813}, {'label': 'positive', 'score': 0.0014730176282301545}]]","Squid Token Scam"
+"[[{'label': 'negative', 'score': 0.9776034355163574}, {'label': 'neutral', 'score': 0.021551210731267929}, {'label': 'positive', 'score': 0.0008453735424196348}]]","Fantom Foundation"
+"[[{'label': 'negative', 'score': 0.8907344341278076}, {'label': 'neutral', 'score': 0.09761142730712891}, {'label': 'positive', 'score': 0.011654106239974499}]]","Stars Arena BIGTIME Token"
+"[[{'label': 'negative', 'score': 0.9800454378128052}, {'label': 'neutral', 'score': 0.019209802150726318}, {'label': 'positive', 'score': 0.0007448060242645442}]]","AnubisDAO"
+"[[{'label': 'neutral', 'score': 0.5820505023002625}, {'label': 'negative', 'score': 0.4142049551010132}, {'label': 'positive', 'score': 0.0037445513624697924}]]","DeFi100 Coin"
+"[[{'label': 'negative', 'score': 0.9811190962791443}, {'label': 'neutral', 'score': 0.018329791724681854}, {'label': 'positive', 'score': 0.0005511164227500558}]]","Luna Yield"
+"[[{'label': 'negative', 'score': 0.9829943180084229}, {'label': 'neutral', 'score': 0.015940576046705246}, {'label': 'positive', 'score': 0.001065116743687913}]]","Ronin Bridge Exploit"
