@@ -27,9 +27,9 @@ def main():
 
 
     st.markdown('<div class="sidebar-content">', unsafe_allow_html=True)
-    st.sidebar.markdown('<h2 class="sidebar-title">Projects</h2>', unsafe_allow_html=True)
+    st.sidebar.markdown('<h2 class="sidebar-title">DeFi Projects</h2>', unsafe_allow_html=True)
     #selected_project = st.sidebar.selectbox("Select a project", projects_df["Project"].tolist(),index=None,placeholder="Choose an option")
-    selected_project = st.sidebar.selectbox("Select a project", project_names)
+    selected_project = st.sidebar.selectbox("Select a DeFi project", project_names)
     githuburl = st.sidebar.text_input("Paste DeFi project or smart contract Address")
 
 
@@ -47,6 +47,7 @@ def main():
             project_data = projects_df[projects_df["name"] == selected_project].iloc[0]
             #contract_address = project_data["Smart Contract Address (Ethereum Mainnet)"]
             contract_address = project_data["address"]
+            tokenid = project_data["gecko_id"]
 
 
             source_code, contract_name, compiler_version = getDeFiProjectData.get_contract_info(contract_address)
@@ -61,9 +62,9 @@ def main():
             st.write("Description:", project_data["description"])
             st.write("TVL:", project_data["tvl"])
 
-            # Display the chainTvls as a JSON object
             st.subheader("Chain TVLs")
             st.json(project_data["chainTvls"])
+
 
 
         elif githuburl:
@@ -74,11 +75,11 @@ def main():
 
         if source_code:
             #project_data = 'code'
-            #summaryLLM.start_summary(project_data,source_code,contract_name,compiler_version,contract_abi,contract_transactions)
-            analysisllmsm =  summaryLLM.start_summary_sc(source_code)
+            summaryLLM.start_summary(tokenid,project_data,source_code,contract_name,compiler_version,contract_abi,contract_transactions)
+            #analysisllmsm =  summaryLLM.start_summary_sc(source_code)
 
-            with st.expander('Smart contract LLM'):
-                st.markdown(analysisllmsm)
+            #with st.expander('Smart contract LLM'):
+            #st.markdown(analysisllmsm)
 
 
 
