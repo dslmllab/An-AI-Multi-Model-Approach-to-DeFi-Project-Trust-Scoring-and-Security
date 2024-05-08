@@ -64,14 +64,14 @@ config.read('config.ini')
 
 
 
-ETHERSCAN_API_KEY = get_api_keys.get_api_keys('ether')
+ETHERSCAN_API_KEY = getApiKeys.get_api_keys('ether')
 ETHERSCAN_API_ENDPOINT = "https://api.etherscan.io/api"
 
-BACSCAN_API_KEY = get_api_keys.get_api_keys('bscan')
+BACSCAN_API_KEY = getApiKeys.get_api_keys('bscan')
 
 BACSCAN_API_ENDPOINT = "https://api.bscscan.com/api"
 
-ftSCAN_API_KEY = get_api_keys.get_api_keys('ftscan')
+ftSCAN_API_KEY = getApiKeys.get_api_keys('ftscan')
 
 ftSCAN_API_ENDPOINT = "https://api.bscscan.com/api"
 
