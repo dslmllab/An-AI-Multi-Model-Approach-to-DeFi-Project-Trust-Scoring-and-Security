@@ -22,6 +22,9 @@ def get_api_keys(keyid):
         case "searchengine":
             engine_id =  config['google']['search_engine_id']
             return engine_id
+        case "openaikey":
+            openaikey = config['openai']
+            return openaikey
 
 
 
