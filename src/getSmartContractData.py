@@ -8,16 +8,16 @@ config.read('config.ini')
 
 
 
-ETHERSCAN_API_KEY = getApiKeys.get_api_keys('ether')
+ETHERSCAN_API_KEY = getApiKeys.get_api_keys('etherscan')
 ETHERSCAN_API_ENDPOINT = "https://api.etherscan.io/api"
 
-BACSCAN_API_KEY = getApiKeys.get_api_keys('bscan')
+BACSCAN_API_KEY = getApiKeys.get_api_keys('bscscan')
 
 BACSCAN_API_ENDPOINT = "https://api.bscscan.com/api"
 
-ftSCAN_API_KEY = getApiKeys.get_api_keys('ftscan')
+ftSCAN_API_KEY = getApiKeys.get_api_keys('ftcscan')
 
-ftSCAN_API_ENDPOINT = "https://api.bscscan.com/api"
+ftSCAN_API_ENDPOINT = "https://api.ftmscan.com/api"
 
 def get_contract_info(contract_address):
     params1 = {

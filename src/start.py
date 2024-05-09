@@ -1,12 +1,7 @@
 import streamlit as st
-import requests
-import requests
-from textwrap import fill
+
 import pandas as pd
-import os
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-import getDeFiProjectData
+
 import summaryLLM
 #projects_df = pd.read_csv("DeFi Projects.csv")
 projects_df = pd.read_json("defillama_export.json")
@@ -50,9 +45,9 @@ def main():
             tokenid = project_data["gecko_id"]
 
 
-            source_code, contract_name, compiler_version = getDeFiProjectData.get_contract_info(contract_address)
+            #ource_code, contract_name, compiler_version = getDeFiProjectData.get_contract_info(contract_address)
 
-            contract_abi, contract_transactions = getDeFiProjectData.get_contract_details(contract_address)
+            #contract_abi, contract_transactions = getDeFiProjectData.get_contract_details(contract_address)
             #st.write(project_data)
             st.header(project_data["name"])
             st.image(project_data['logo'])
@@ -70,12 +65,12 @@ def main():
         elif githuburl:
             contract_address = githuburl
 
-            source_code, contract_name, compiler_version = getDeFiProjectData.get_contract_info(contract_address)
-            contract_abi, contract_transactions = getDeFiProjectData.get_contract_details(contract_address)
+            #source_code, contract_name, compiler_version = getDeFiProjectData.get_contract_info(contract_address)
+            #contract_abi, contract_transactions = getDeFiProjectData.get_contract_details(contract_address)
 
-        if source_code:
-            #project_data = 'code'
-            summaryLLM.start_summary(tokenid,project_data,source_code,contract_name,compiler_version,contract_abi,contract_transactions)
+        #if source_code:
+        project_data = 'code'
+        summaryLLM.start_summary(contract_address,tokenid,project_data)
             #analysisllmsm =  summaryLLM.start_summary_sc(source_code)
 
             #with st.expander('Smart contract LLM'):
@@ -83,8 +78,8 @@ def main():
 
 
 
-        else:
-            st.warning("Failed to fetch contract information from Etherscan.")
+        #else:
+            #st.warning("Failed to fetch contract information from Etherscan.")
 
 
 if __name__ == "__main__":

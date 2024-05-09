@@ -18,12 +18,13 @@ def get_api_keys(keyid):
             return api_key
         case "searchapi":
             search_api_key = config['google']['search_api_key']
+            print(search_api_key)
             return search_api_key
         case "searchengine":
             engine_id =  config['google']['search_engine_id']
             return engine_id
         case "openaikey":
-            openaikey = config['openai']
+            openaikey = config['openai']['openai_api_key']
             return openaikey
 
 
