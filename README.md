@@ -1,4 +1,2 @@
+Below are the steps to spin up the app. 
 
-###User Interface screenshots
-
-![Alt Text](defi_1.png)
