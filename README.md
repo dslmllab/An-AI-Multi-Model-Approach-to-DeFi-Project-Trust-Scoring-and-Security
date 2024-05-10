@@ -27,10 +27,7 @@ openai_api_key = ''
 
 * from the source folder create the virtual env and install the pre-requsites from requirements.txt file.
 
-
-
-* 
-* 
+[![Defi Analyze](home.png)](https://youtu.be/4OzFAJF6nyg "Defi Analyzer")
 
 
 
