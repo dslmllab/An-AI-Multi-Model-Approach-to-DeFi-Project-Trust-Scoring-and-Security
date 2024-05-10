@@ -1,4 +1,6 @@
 
 ###User Interface screenshots
 
-![Alt Text](defi_1.png)
+![Alt Text](home.png)
+
+![Alt Text](startscoring.png)
