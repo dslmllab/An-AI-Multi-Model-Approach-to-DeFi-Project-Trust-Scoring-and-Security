@@ -1,6 +1,6 @@
-This repo is part of our research work
+> **Note:** This repo is part of our research work
 
-@INPROCEEDINGS{10664378,
+> @INPROCEEDINGS{10664378,
   author={Mothukuri, Viraaji and Parizi, Reza M. and Massa, James L. and Yazdinejad, Abbas},
   booktitle={2024 IEEE International Conference on Blockchain (Blockchain)}, 
   title={An AI Multi-Model Approach to DeFi Project Trust Scoring and Security}, 
